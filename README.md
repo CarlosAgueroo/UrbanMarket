@@ -1,0 +1,1 @@
+Urban Minimarket es un sistema integral de comercio electrónico y gestión de inventario para un minimarket moderno. El proyecto ha sido desarrollado bajo un modelo de arquitectura monolítica en Java (Servlets y JSP) conectado de manera nativa mediante JDBC a una base de datos MySQL desplegada en la nube.
