@@ -1,4 +1,3 @@
-Urban Minimarket
 Urban Minimarket es un sistema integral de comercio electrónico y gestión de inventario para un minimarket moderno. El proyecto ha sido desarrollado bajo un modelo de arquitectura monolítica en Java (Servlets y JSP) conectado de manera nativa mediante JDBC a una base de datos MySQL desplegada en la nube.
 La interfaz de usuario ha sido rediseñada utilizando Bootstrap 5 y Material Icons, implementando una identidad corporativa de color verde dinámico con catálogos categorizados y scroll interactivo.
 ---
@@ -20,7 +19,7 @@ Inicia el servidor ejecutando el script `startup.bat` (Windows) o `startup.sh` (
 El servidor desempaquetará el proyecto de manera automática.
 Accede al entorno visitando la dirección en cualquier navegador:
 http://localhost:8081/minimarket/
----
+-------------------------
 Credenciales de Prueba
 La base de datos en la nube está inicializada con dos perfiles fijos de prueba que puedes utilizar en la ruta de Login:
 Administrador del Sistema:
