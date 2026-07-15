@@ -19,7 +19,7 @@ Pega este archivo `.war` dentro de la subcarpeta `webapps` que se encuentra en l
 Inicia el servidor ejecutando el script `startup.bat` (Windows) o `startup.sh` (Mac/Linux) ubicado en la carpeta `bin/` de Tomcat.
 El servidor desempaquetará el proyecto de manera automática.
 Accede al entorno visitando la dirección en cualquier navegador:
-http://localhost:8080/UrbanMinimarket/
+http://localhost:8081/minimarket/
 ---
 Credenciales de Prueba
 La base de datos en la nube está inicializada con dos perfiles fijos de prueba que puedes utilizar en la ruta de Login:
